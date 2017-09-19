@@ -16,6 +16,7 @@ module.exports = () => ({
     adminPassword: '',
     whitelist: [mongoConfig.dbName],
     blacklist: [],
+    collblacklist: [],
   },
 
   site: {

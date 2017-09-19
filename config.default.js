@@ -75,6 +75,9 @@ module.exports = {
 
     //blacklist: hide databases listed in the blacklist (empty list for no blacklist)
     blacklist: [],
+
+    //collblacklist: hide collections listed in the blacklist (empty list for no blacklist)
+    collblacklist: [],
   },
 
   site: {
